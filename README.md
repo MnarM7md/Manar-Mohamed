@@ -1,113 +1,101 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ========================= HERO ========================= -->
 
-<!--                     HERO SECTION                           -->
+<div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=42&duration=180&pause=500&color=F8FAFC&center=true&vCenter=true&width=700&height=80&lines=Manar+Mohamed" alt="Manar Mohamed"/>
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=54C5F8&height=180&section=header&text=Manar%20Mohamed&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"
-    width="100%"
-  />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=20&duration=2500&pause=900&color=54C5F8&center=true&vCenter=true&width=600&height=45&lines=Flutter+Developer;UI%2FUX+Designer;Building+beautiful+mobile+experiences" alt="Flutter Developer"/>
+
+<br><br>
+
+<img
+src="https://raw.githubusercontent.com/flutter/website/main/src/content/assets/images/flutter-logo-sharing.png"
+width="150"
+alt="Flutter Logo"
+/>
+
+<br><br>
+
+<p>
+  <a href="#about-me">ABOUT</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#tech-stack">TECH STACK</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#featured-projects">PROJECTS</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#github-activity">GITHUB</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#lets-connect">CONTACT</a>
 </p>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=54C5F8&center=true&vCenter=true&width=700&lines=Flutter+Developer+%F0%9F%93%B1;UI%2FUX+Designer+%F0%9F%8E%A8;Dart+%7C+Flutter+%7C+Figma;Turning+Ideas+Into+Beautiful+Apps+%E2%9C%A8"
-    alt="Typing SVG"
-  />
-</p>
+</div>
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/flutter-logo.png"
-    width="95"
-    alt="Flutter"
-  />
-</p>
-
-<p align="center">
-  <b>Building mobile experiences where design meets code.</b>
-</p>
-
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=54C5F8&labelColor=0D1117"/>
-  </a>
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-View-7C4DFF?style=flat-square&labelColor=0D1117"/>
-  </a>
-</p>
+<br>
 
 ---
 
-## 👋 Hey, I'm Manar
+<!-- ========================= ABOUT ========================= -->
 
-I'm a **Computer & Information student** passionate about building mobile applications with **Flutter** and creating clean, intuitive interfaces with **UI/UX Design**.
+<h2 id="about-me">01 — About Me</h2>
 
-I enjoy taking an idea from a simple sketch → to a polished design → to a real Flutter application.
+<p>
+I'm <b>Manar Mohamed</b>, a Computer & Information student passionate about
+<b>Flutter development</b> and <b>UI/UX design</b>.
+</p>
+
+<p>
+I enjoy transforming ideas into clean, simple and user-friendly mobile
+experiences — from the first wireframe in Figma to a real Flutter application.
+</p>
+
+<br>
+
+<div align="center">
 
 ```text
-                         💡 IDEA
-                           │
-                           ▼
-                     🎨 UI / UX
-                           │
-                           ▼
-                     🧩 PROTOTYPE
-                           │
-                           ▼
-                     📱 FLUTTER
-                           │
-                           ▼
-                    ✨ REAL PRODUCT
+       IDEA
+        ↓
+     RESEARCH
+        ↓
+      FIGMA
+        ↓
+    PROTOTYPE
+        ↓
+     FLUTTER
+        ↓
+   REAL PRODUCT
 ```
 
----
-
-## ⚡ What I Do
-
-<table>
-<tr>
-<td width="50%">
-
-### 📱 Mobile Development
-
-* Flutter
-* Dart
-* Responsive UI
-* App architecture
-* Clean & reusable widgets
-
-</td>
-
-<td width="50%">
-
-### 🎨 UI / UX Design
-
-* Figma
-* Wireframing
-* Prototyping
-* Design Systems
-* User-centered interfaces
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## 🛠️ My Tech Stack
+<!-- ========================= TECH STACK ========================= -->
+
+<h2 id="tech-stack">02 — Tech Stack</h2>
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,figma,cpp,java,cs,sql,git,github,vscode&perline=5"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,figma,cpp,java,cs,git,github,vscode&perline=5"/>
 
 </p>
 
+<br>
+
+<div align="center">
+
+`Flutter`   `Dart`   `Figma`   `C++`   `Java`
+`C#`   `SQL`   `Git`   `GitHub`
+
+</div>
+
 ---
 
-## 🚀 Featured Projects
+<!-- ========================= PROJECTS ========================= -->
+
+<h2 id="featured-projects">03 — Featured Projects</h2>
 
 <table>
 <tr>
@@ -116,23 +104,23 @@ I enjoy taking an idea from a simple sketch → to a polished design → to a re
 
 ### 🐾 Pet Clinic System
 
-A database-based system designed to organize and manage pet clinic information.
+A system designed to organize and manage pet clinic information.
 
-**Built with**
+**Focus**
 
-`MS Access` `Database Design`
+`Database` · `System Design`
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🧠 AI Neurology Imaging
+### 🧠 AI Neurology Imaging System
 
-An academic AI project focused on neurological medical image analysis.
+An academic AI project for neurological medical image analysis.
 
-**Built with**
+**Focus**
 
-`U-Net` `Vision Transformers` `AI`
+`U-Net` · `Vision Transformers` · `AI`
 
 </td>
 
@@ -144,23 +132,23 @@ An academic AI project focused on neurological medical image analysis.
 
 ### 🩹 First Aid Information System
 
-A mobile application providing first-aid information through a simple and accessible interface.
+A mobile application providing accessible first-aid information through a simple interface.
 
 **Focus**
 
-`Flutter` `UI/UX` `Mobile Development`
+`Flutter` · `UI/UX` · `Mobile`
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🔨 More Coming Soon...
+### ✨ More Projects Coming
 
-Currently working on improving my Flutter skills and building more real-world applications.
+Currently building and improving my Flutter projects.
 
 **Status**
 
-`Learning` `Building` `Improving`
+`Learning` · `Building` · `Improving`
 
 </td>
 
@@ -169,73 +157,86 @@ Currently working on improving my Flutter skills and building more real-world ap
 
 ---
 
-## 🎯 Currently Learning
+<!-- ========================= CURRENTLY LEARNING ========================= -->
+
+<h2>04 — Currently Learning</h2>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Flutter-54C5F8?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/UI%2FUX-7C4DFF?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-54C5F8?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/UI%2FUX-7C5CFC?style=flat-square&logo=figma&logoColor=white"/>
 
 </p>
 
-```text
-Flutter Development       ███████████████░░░  80%
-Dart                      ███████████████░░░  80%
-UI / UX Design            █████████████░░░░░  70%
-Problem Solving           ████████████░░░░░░  65%
-Software Architecture     ████████░░░░░░░░░░  45%
-```
+<p align="center">
+
+Flutter Development   •  
+Dart   •  
+UI/UX Design   •  
+Problem Solving
+
+</p>
 
 ---
 
-## 📊 GitHub Activity
+<!-- ========================= GITHUB ========================= -->
+
+<h2 id="github-activity">05 — GitHub Activity</h2>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=54C5F8&icon_color=7C4DFF&text_color=FFFFFF&count_private=true"
-    height="165"
-  />
 
 <img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=54C5F8&text_color=FFFFFF"
- height="165"
+src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0B1220&title_color=54C5F8&icon_color=7C5CFC&text_color=F8FAFC"
+height="165"
+/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0B1220&title_color=54C5F8&text_color=F8FAFC"
+height="165"
+/>
+
+</p>
+
+<br>
+
+<p align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0B1220&ring=54C5F8&fire=7C5CFC&currStreakLabel=54C5F8"
+width="500"
 />
 
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+<!-- ========================= SNAKE ========================= -->
+
+<h2>06 — Contribution Journey</h2>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=54C5F8&fire=7C4DFF&currStreakLabel=54C5F8"
-  />
+
+<img
+src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"
+alt="GitHub Contribution Snake"
+/>
+
 </p>
 
 ---
 
-## 🐍 My Contributions
+<!-- ========================= CODE ========================= -->
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
-
----
-
-## 💭 A Little More About Me
+<h2>07 — A Little About Me</h2>
 
 ```dart
 class Manar {
 
-  String role = "Flutter Developer";
-  String passion = "UI/UX Design";
+  final String role = "Flutter Developer";
+  final String passion = "UI/UX Design";
 
-  List<String> skills = [
+  final List<String> skills = [
     "Flutter",
     "Dart",
     "Figma",
@@ -243,44 +244,61 @@ class Manar {
     "Java",
     "C#",
     "SQL",
-    "Problem Solving"
   ];
 
-  String goal =
-      "Build useful products with beautiful experiences.";
-
+  final String goal =
+      "Build simple products with meaningful experiences.";
 }
 ```
 
 ---
 
-## 🌐 Let's Connect
+<!-- ========================= CONTACT ========================= -->
+
+<h2 id="lets-connect">08 — Let's Connect</h2>
 
 <p align="center">
 
 <a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-54C5F8?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/LinkedIn-54C5F8?style=flat-square&logo=linkedin&logoColor=white"
+  />
 </a>
+
+ 
 
 <a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-7C4DFF?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/Email-7C5CFC?style=flat-square&logo=gmail&logoColor=white"
+  />
 </a>
+
+ 
 
 <a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/GitHub-0B1220?style=flat-square&logo=github&logoColor=white"
+  />
 </a>
 
 </p>
 
----
+<br>
+
+<div align="center">
+
+### ✦ Design. Build. Improve. ✦
+
+<sub>Made with Flutter spirit 💙</sub>
+
+</div>
+
+<br>
 
 <p align="center">
-  <i>“Design it. Build it. Make it better.”</i>
-</p>
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=7C4DFF&height=120&section=footer"
-    width="100%"
-  />
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=54C5F8&height=120&section=footer"
+/>
+
 </p>
