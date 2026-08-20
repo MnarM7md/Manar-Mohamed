@@ -99,34 +99,45 @@
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=flutter,dart,figma&theme=light&perline=3"
-    alt="Flutter Dart Figma"
+    src="https://skillicons.dev/icons?i=flutter,dart,figma,cpp,java,cs,c,git,github,vscode,visualstudio&theme=light&perline=6"
+    alt="Skills and Tools"
   />
-</p>
-
-<p align="center">
-  <sub>
-    Mobile Development &nbsp; · &nbsp;
-    UI/UX Design &nbsp; · &nbsp;
-    Prototyping
-  </sub>
 </p>
 
 <br>
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=cpp,java,cs,git,github,vscode&theme=light&perline=6"
-    alt="Programming Tools"
-  />
+  <strong>Flutter</strong>
+  &nbsp; · &nbsp;
+  <strong>Dart</strong>
+  &nbsp; · &nbsp;
+  <strong>Figma</strong>
+  &nbsp; · &nbsp;
+  <strong>C++</strong>
+  &nbsp; · &nbsp;
+  <strong>C</strong>
+  &nbsp; · &nbsp;
+  <strong>Java</strong>
+  &nbsp; · &nbsp;
+  <strong>C#</strong>
 </p>
 
 <p align="center">
-  <sub>
-    Programming &nbsp; · &nbsp;
-    Problem Solving &nbsp; · &nbsp;
-    Development Tools
-  </sub>
+  <strong>SQL</strong>
+  &nbsp; · &nbsp;
+  <strong>Database</strong>
+  &nbsp; · &nbsp;
+  <strong>Data Structures</strong>
+  &nbsp; · &nbsp;
+  <strong>Git</strong>
+  &nbsp; · &nbsp;
+  <strong>GitHub</strong>
+</p>
+
+<p align="center">
+  <strong>VS Code</strong>
+  &nbsp; · &nbsp;
+  <strong>Visual Studio 2022</strong>
 </p>
 
 <br>
@@ -228,7 +239,7 @@ A mobile application for accessible first-aid information.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=F8FBFF&title_color=042B59&icon_color=027DFD&text_color=475569&ring_color=027DFD"
+    src="https://github-readme-stats.vercel.app/api?username=MnarM7md&show_icons=true&hide_border=true&bg_color=F8FBFF&title_color=042B59&icon_color=027DFD&text_color=475569&ring_color=027DFD"
     height="165"
     alt="GitHub Statistics"
   />
@@ -236,7 +247,7 @@ A mobile application for accessible first-aid information.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=F8FBFF&title_color=042B59&text_color=475569"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MnarM7md&layout=compact&hide_border=true&bg_color=F8FBFF&title_color=042B59&text_color=475569"
     height="165"
     alt="Top Languages"
   />
@@ -250,8 +261,6 @@ A mobile application for accessible first-aid information.
 
 <br>
 
-<p align="center">
-
 ```dart
 class Manar {
 
@@ -262,18 +271,19 @@ class Manar {
     "Flutter",
     "Dart",
     "Figma",
+    "C",
     "C++",
     "Java",
     "C#",
     "SQL",
+    "Database",
+    "Data Structures",
   ];
 
   final String goal =
       "Build simple products with meaningful experiences.";
 }
 ```
-
-</p>
 
 <br>
 
@@ -285,22 +295,44 @@ class Manar {
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
-  <strong>LinkedIn</strong>
+<a href="https://linkedin.com/in/manar-mohamed-974583335">
+  <img
+    src="https://skillicons.dev/icons?i=linkedin"
+    width="42"
+    alt="LinkedIn"
+  />
 </a>
 
-   ·   
+    
 
-<a href="mailto:YOUR_EMAIL">
-  <strong>Email</strong>
+<a href="https://github.com/MnarM7md">
+  <img
+    src="https://skillicons.dev/icons?i=github"
+    width="42"
+    alt="GitHub"
+  />
 </a>
 
-   ·   
+    
 
-<a href="https://github.com/YOUR_USERNAME">
-  <strong>GitHub</strong>
+<a href="mailto:m77712406@gmail.com">
+  <img
+    src="https://skillicons.dev/icons?i=gmail"
+    width="42"
+    alt="Email"
+  />
 </a>
 
+</p>
+
+<p align="center">
+  <sub>
+    linkedin.com/in/manar-mohamed-974583335
+    &nbsp; · &nbsp;
+    github.com/MnarM7md
+    &nbsp; · &nbsp;
+    m77712406@gmail.com
+  </sub>
 </p>
 
 <br>
