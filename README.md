@@ -58,12 +58,12 @@
   &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="#projects">Projects</a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="#github">GitHub</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="#contact">Contact</a>
+  <a href="#github-stats">GitHub Stats</a>
 </p>
 
 <br>
+
+---
 
 <!-- ========================== ABOUT ========================= -->
 
@@ -123,18 +123,20 @@
 </p>
 
 <p align="center">
-  <strong>SQL</strong>
-  &nbsp; · &nbsp;
-  <strong>Database</strong>
+  <strong>OOP</strong>
   &nbsp; · &nbsp;
   <strong>Data Structures</strong>
   &nbsp; · &nbsp;
-  <strong>Git</strong>
+  <strong>Database</strong>
   &nbsp; · &nbsp;
-  <strong>GitHub</strong>
+  <strong>SQL</strong>
 </p>
 
 <p align="center">
+  <strong>Git</strong>
+  &nbsp; · &nbsp;
+  <strong>GitHub</strong>
+  &nbsp; · &nbsp;
   <strong>VS Code</strong>
   &nbsp; · &nbsp;
   <strong>Visual Studio 2022</strong>
@@ -144,7 +146,7 @@
 
 <!-- ========================== PROJECTS ====================== -->
 
-<h2 id="projects" align="center">Featured Projects</h2>
+<h2 id="projects" align="center">Projects</h2>
 
 <br>
 
@@ -231,26 +233,25 @@ A mobile application for accessible first-aid information.
 
 <br>
 
-<!-- =========================== GITHUB ======================= -->
+<!-- ======================== GITHUB STATS ==================== -->
 
-<h2 id="github" align="center">GitHub Activity</h2>
+<h2 id="github-stats" align="center">GitHub Stats</h2>
 
 <br>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=MnarM7md&show_icons=true&hide_border=true&bg_color=F8FBFF&title_color=042B59&icon_color=027DFD&text_color=475569&ring_color=027DFD"
+    src="https://github-readme-stats.vercel.app/api?username=MnarM7md&show_icons=true&hide_border=true&bg_color=F8FBFF&title_color=042B59&icon_color=027DFD&text_color=475569"
     height="165"
-    alt="GitHub Statistics"
+    alt="GitHub Stats"
   />
-</p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MnarM7md&layout=compact&hide_border=true&bg_color=F8FBFF&title_color=042B59&text_color=475569"
-    height="165"
-    alt="Top Languages"
-  />
+<img
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=MnarM7md&layout=compact&hide_border=true&bg_color=F8FBFF&title_color=042B59&text_color=475569"
+ height="165"
+ alt="Top Languages"
+/>
+
 </p>
 
 <br>
@@ -261,7 +262,7 @@ A mobile application for accessible first-aid information.
 
 <br>
 
-```dart
+```dart id="w7d5x2"
 class Manar {
 
   final String role = "Flutter Developer";
@@ -275,6 +276,7 @@ class Manar {
     "C++",
     "Java",
     "C#",
+    "OOP",
     "SQL",
     "Database",
     "Data Structures",
@@ -289,16 +291,12 @@ class Manar {
 
 <!-- ========================== CONTACT ======================= -->
 
-<h2 id="contact" align="center">Let's Connect</h2>
-
-<br>
-
 <p align="center">
 
 <a href="https://linkedin.com/in/manar-mohamed-974583335">
   <img
     src="https://skillicons.dev/icons?i=linkedin"
-    width="42"
+    width="38"
     alt="LinkedIn"
   />
 </a>
@@ -308,7 +306,7 @@ class Manar {
 <a href="https://github.com/MnarM7md">
   <img
     src="https://skillicons.dev/icons?i=github"
-    width="42"
+    width="38"
     alt="GitHub"
   />
 </a>
@@ -318,21 +316,11 @@ class Manar {
 <a href="mailto:m77712406@gmail.com">
   <img
     src="https://skillicons.dev/icons?i=gmail"
-    width="42"
+    width="38"
     alt="Email"
   />
 </a>
 
-</p>
-
-<p align="center">
-  <sub>
-    linkedin.com/in/manar-mohamed-974583335
-    &nbsp; · &nbsp;
-    github.com/MnarM7md
-    &nbsp; · &nbsp;
-    m77712406@gmail.com
-  </sub>
 </p>
 
 <br>
