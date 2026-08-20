@@ -1,36 +1,56 @@
-<!-- ========================= HERO ========================= -->
+<!-- ========================================================= -->
 
-<div align="center">
+<!--                    MANAR GITHUB README                    -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=42&duration=180&pause=500&color=F8FAFC&center=true&vCenter=true&width=700&height=80&lines=Manar+Mohamed" alt="Manar Mohamed"/>
+<!-- ========================================================= -->
+
+<!-- ========================= HERO ========================== -->
+
+<p align="center">
+
+<img
+ src="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=700&size=34&duration=150&pause=800&color=F8FAFC&center=true&vCenter=true&width=800&height=70&lines=%F0%9F%91%8B+Hi%2C+I'm+Manar+Mohamed"
+ alt="Hi, I'm Manar Mohamed"
+/>
+
+</p>
+
+<p align="center">
+
+<img
+ src="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=500&size=20&duration=3000&pause=900&color=54C5F8&center=true&vCenter=true&width=700&height=45&lines=Flutter+Developer;UI%2FUX+Designer;Building+beautiful+mobile+experiences"
+ alt="Flutter Developer"
+/>
+
+</p>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=20&duration=2500&pause=900&color=54C5F8&center=true&vCenter=true&width=600&height=45&lines=Flutter+Developer;UI%2FUX+Designer;Building+beautiful+mobile+experiences" alt="Flutter Developer"/>
-
-<br><br>
+<p align="center">
 
 <img
-src="https://raw.githubusercontent.com/flutter/website/main/src/content/assets/images/flutter-logo-sharing.png"
-width="150"
-alt="Flutter Logo"
+ src="https://skillicons.dev/icons?i=flutter&theme=light"
+ width="120"
+ alt="Flutter"
 />
 
-<br><br>
-
-<p>
-  <a href="#about-me">ABOUT</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="#tech-stack">TECH STACK</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="#featured-projects">PROJECTS</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="#github-activity">GITHUB</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="#lets-connect">CONTACT</a>
 </p>
 
-</div>
+<p align="center">
+  <sub>Flutter • Dart • UI/UX • Figma</sub>
+</p>
+
+<br>
+
+<p align="center">
+
+<a href="#about-me">About</a>
+  ·   <a href="#skills">Skills</a>
+  ·   <a href="#projects">Projects</a>
+  ·   <a href="#github">GitHub</a>
+  ·   <a href="#contact">Contact</a>
+
+</p>
 
 <br>
 
@@ -41,61 +61,87 @@ alt="Flutter Logo"
 <h2 id="about-me">01 — About Me</h2>
 
 <p>
-I'm <b>Manar Mohamed</b>, a Computer & Information student passionate about
-<b>Flutter development</b> and <b>UI/UX design</b>.
+I'm <strong>Manar Mohamed</strong>, a Computer & Information student passionate
+about <strong>Flutter development</strong> and <strong>UI/UX design</strong>.
 </p>
 
 <p>
-I enjoy transforming ideas into clean, simple and user-friendly mobile
-experiences — from the first wireframe in Figma to a real Flutter application.
+I enjoy turning ideas into clean, simple and user-friendly mobile experiences —
+from the first wireframe in Figma to a real Flutter application.
 </p>
 
 <br>
 
 <div align="center">
 
-```text
-       IDEA
-        ↓
-     RESEARCH
-        ↓
-      FIGMA
-        ↓
-    PROTOTYPE
-        ↓
-     FLUTTER
-        ↓
-   REAL PRODUCT
-```
+### From idea → to experience → to product
+
+<br>
+
+💡 Idea
+   →   
+🔎 Research
+   →   
+🎨 Figma
+   →   
+📱 Flutter
+   →   
+✨ Product
 
 </div>
 
+<br>
+
 ---
 
-<!-- ========================= TECH STACK ========================= -->
+<!-- ========================= SKILLS ======================== -->
 
-<h2 id="tech-stack">02 — Tech Stack</h2>
+<h2 id="skills">02 — Skills & Technologies</h2>
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,figma,cpp,java,cs,git,github,vscode&perline=5"/>
+<img
+ src="https://skillicons.dev/icons?i=flutter,dart,figma,cpp,java,cs,git,github,vscode&theme=light&perline=5"
+ alt="My Skills"
+/>
 
 </p>
 
 <br>
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-`Flutter`   `Dart`   `Figma`   `C++`   `Java`
-`C#`   `SQL`   `Git`   `GitHub`
+### 📱 Mobile Development
 
-</div>
+Flutter
+Dart
+Responsive UI
+Reusable Widgets
+Mobile App Development
+
+</td>
+
+<td align="center" width="50%">
+
+### 🎨 UI / UX
+
+Figma
+Wireframing
+Prototyping
+Design Systems
+User-centered Design
+
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- ========================= PROJECTS ========================= -->
+<!-- ========================= PROJECTS ====================== -->
 
-<h2 id="featured-projects">03 — Featured Projects</h2>
+<h2 id="projects">03 — Featured Projects</h2>
 
 <table>
 <tr>
@@ -108,7 +154,8 @@ A system designed to organize and manage pet clinic information.
 
 **Focus**
 
-`Database` · `System Design`
+`MS Access`
+`Database Design`
 
 </td>
 
@@ -116,11 +163,13 @@ A system designed to organize and manage pet clinic information.
 
 ### 🧠 AI Neurology Imaging System
 
-An academic AI project for neurological medical image analysis.
+An academic AI project focused on neurological medical image analysis.
 
 **Focus**
 
-`U-Net` · `Vision Transformers` · `AI`
+`U-Net`
+`Vision Transformers`
+`AI`
 
 </td>
 
@@ -136,15 +185,17 @@ A mobile application providing accessible first-aid information through a simple
 
 **Focus**
 
-`Flutter` · `UI/UX` · `Mobile`
+`Flutter`
+`UI/UX`
+`Mobile Development`
 
 </td>
 
 <td width="50%" valign="top">
 
-### ✨ More Projects Coming
+### ✨ More Coming Soon
 
-Currently building and improving my Flutter projects.
+Currently learning, building and improving my Flutter projects.
 
 **Status**
 
@@ -157,43 +208,50 @@ Currently building and improving my Flutter projects.
 
 ---
 
-<!-- ========================= CURRENTLY LEARNING ========================= -->
+<!-- ========================= LEARNING ====================== -->
 
 <h2>04 — Currently Learning</h2>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Flutter-54C5F8?style=flat-square&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/UI%2FUX-7C5CFC?style=flat-square&logo=figma&logoColor=white"/>
+📱 Flutter Development
+  ·  
+💙 Dart
+  ·  
+🎨 UI/UX Design
+  ·  
+🧠 Problem Solving
 
 </p>
 
+<br>
+
 <p align="center">
 
-Flutter Development   •  
-Dart   •  
-UI/UX Design   •  
-Problem Solving
+<img src="https://img.shields.io/badge/Flutter-54C5F8?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-7C5CFC?style=flat-square&logo=figma&logoColor=white"/>
 
 </p>
 
 ---
 
-<!-- ========================= GITHUB ========================= -->
+<!-- ========================= GITHUB ======================== -->
 
-<h2 id="github-activity">05 — GitHub Activity</h2>
+<h2 id="github">05 — GitHub Activity</h2>
 
 <p align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0B1220&title_color=54C5F8&icon_color=7C5CFC&text_color=F8FAFC"
+src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=54C5F8&icon_color=7C5CFC&text_color=334155"
 height="165"
+alt="GitHub Stats"
 />
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0B1220&title_color=54C5F8&text_color=F8FAFC"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=54C5F8&text_color=334155"
 height="165"
+alt="Top Languages"
 />
 
 </p>
@@ -203,30 +261,32 @@ height="165"
 <p align="center">
 
 <img
-src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0B1220&ring=54C5F8&fire=7C5CFC&currStreakLabel=54C5F8"
+src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default&hide_border=true&background=FFFFFF&ring=54C5F8&fire=7C5CFC&currStreakLabel=54C5F8"
 width="500"
+alt="GitHub Streak"
 />
 
 </p>
 
 ---
 
-<!-- ========================= SNAKE ========================= -->
+<!-- ========================= CONTRIBUTIONS ================= -->
 
 <h2>06 — Contribution Journey</h2>
 
 <p align="center">
 
 <img
-src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"
-alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/DenverCoder1/github-readme-streak-stats/master/assets/demo.svg"
+width="700"
+alt="Contribution"
 />
 
 </p>
 
 ---
 
-<!-- ========================= CODE ========================= -->
+<!-- ========================= CODE ========================== -->
 
 <h2>07 — A Little About Me</h2>
 
@@ -253,52 +313,43 @@ class Manar {
 
 ---
 
-<!-- ========================= CONTACT ========================= -->
+<!-- ========================= CONTACT ======================= -->
 
-<h2 id="lets-connect">08 — Let's Connect</h2>
+<h2 id="contact">08 — Let's Connect</h2>
 
 <p align="center">
 
 <a href="YOUR_LINKEDIN_URL">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-54C5F8?style=flat-square&logo=linkedin&logoColor=white"
-  />
+  LinkedIn
 </a>
 
- 
+   ·   
 
 <a href="mailto:YOUR_EMAIL">
-  <img
-    src="https://img.shields.io/badge/Email-7C5CFC?style=flat-square&logo=gmail&logoColor=white"
-  />
+  Email
 </a>
 
- 
+   ·   
 
 <a href="https://github.com/YOUR_USERNAME">
-  <img
-    src="https://img.shields.io/badge/GitHub-0B1220?style=flat-square&logo=github&logoColor=white"
-  />
+  GitHub
 </a>
 
 </p>
 
 <br>
 
-<div align="center">
+<p align="center">
 
-### ✦ Design. Build. Improve. ✦
+<img
+src="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=500&size=18&duration=3500&pause=1000&color=7C5CFC&center=true&vCenter=true&width=600&height=40&lines=Design.+Build.+Improve.;Turning+ideas+into+mobile+experiences."
+alt="Closing message"
+/>
 
-<sub>Made with Flutter spirit 💙</sub>
-
-</div>
+</p>
 
 <br>
 
 <p align="center">
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=54C5F8&height=120&section=footer"
-/>
-
+  <sub>Made with 💙 by Manar Mohamed</sub>
 </p>
