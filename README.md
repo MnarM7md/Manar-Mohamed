@@ -2,30 +2,30 @@
 
 <!--                    MANAR MOHAMED                          -->
 
-<!--              PREMIUM GITHUB PROFILE README                -->
+<!--              FLUTTER DEVELOPER PROFILE                    -->
 
 <!-- ========================================================= -->
 
-<!-- ======================== HERO ============================ -->
+<!-- =========================== HERO ========================= -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=042B59&height=210&section=header&text=MANAR%20MOHAMED&fontSize=46&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=042B59&height=220&section=header&text=&fontSize=1"
     width="100%"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&duration=120&pause=1000&color=027DFD&center=true&vCenter=true&width=800&height=55&lines=%F0%9F%91%8B+Hi%2C+I'm+Manar+Mohamed"
+    src="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=700&size=36&duration=120&pause=1200&color=FFFFFF&center=true&vCenter=true&width=850&height=70&lines=%F0%9F%91%8B+Hi%2C+I'm+Manar+Mohamed"
     alt="Hi, I'm Manar Mohamed"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=18&duration=2800&pause=1000&color=64748B&center=true&vCenter=true&width=700&height=40&lines=Flutter+Developer;UI%2FUX+Designer;Building+clean+mobile+experiences"
-    alt="Flutter Developer"
+    src="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=500&size=19&duration=2800&pause=900&color=8DD7FF&center=true&vCenter=true&width=650&height=45&lines=Flutter+Developer+%7C+UI%2FUX+Designer;Building+simple+%26+beautiful+mobile+experiences"
+    alt="Flutter Developer UI UX Designer"
   />
 </p>
 
@@ -33,114 +33,158 @@
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=flutter&theme=light"
-    width="90"
+    src="https://skillicons.dev/icons?i=flutter&theme=dark"
+    width="100"
     alt="Flutter"
   />
 </p>
 
 <p align="center">
-  <b>Flutter</b> · Dart · UI/UX · Figma
-</p>
-
-<br>
-
----
-
-<!-- ======================== INTRO =========================== -->
-
-<div align="center">
-
-### Turning ideas into simple, beautiful experiences.
-
-</div>
-
-<br>
-
-<p align="center">
-I'm a Computer & Information student interested in
-<b>Flutter mobile development</b> and <b>UI/UX design</b>.
-</p>
-
-<p align="center">
-I love taking an idea from a simple concept,
-through Figma, and turning it into a real mobile experience.
-</p>
-
-<br>
-
----
-
-<!-- ======================== SKILLS ========================== -->
-
-<h2 align="center">What I Work With</h2>
-
-<br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,figma&theme=light" />
-</p>
-
-<p align="center">
-  <sub>Mobile Development · UI/UX Design · Prototyping</sub>
+  <strong>Flutter</strong>
+  &nbsp; · &nbsp;
+  <strong>Dart</strong>
+  &nbsp; · &nbsp;
+  <strong>UI/UX</strong>
+  &nbsp; · &nbsp;
+  <strong>Figma</strong>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,cs,git,github,vscode&theme=light&perline=6" />
+  <a href="#about">About</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#skills">Skills</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#projects">Projects</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#github">GitHub</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#contact">Contact</a>
+</p>
+
+<br>
+
+<!-- ========================== ABOUT ========================= -->
+
+<h2 id="about" align="center">About Me</h2>
+
+<p align="center">
+  Computer & Information student passionate about
+  <strong>Flutter Development</strong> and
+  <strong>UI/UX Design</strong>.
 </p>
 
 <p align="center">
-  <sub>Programming · Problem Solving · Development Tools</sub>
+  I enjoy transforming ideas into clean interfaces and
+  turning those designs into real mobile applications.
 </p>
 
 <br>
 
----
-
-<!-- ======================== PROJECTS ======================== -->
-
-<h2 align="center">Selected Projects</h2>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=EAF5FF&height=2&section=header"
+    width="65%"
+  />
+</p>
 
 <br>
 
-<table align="center">
+<!-- ========================== SKILLS ======================== -->
+
+<h2 id="skills" align="center">Skills & Tools</h2>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=flutter,dart,figma&theme=light&perline=3"
+    alt="Flutter Dart Figma"
+  />
+</p>
+
+<p align="center">
+  <sub>
+    Mobile Development &nbsp; · &nbsp;
+    UI/UX Design &nbsp; · &nbsp;
+    Prototyping
+  </sub>
+</p>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=cpp,java,cs,git,github,vscode&theme=light&perline=6"
+    alt="Programming Tools"
+  />
+</p>
+
+<p align="center">
+  <sub>
+    Programming &nbsp; · &nbsp;
+    Problem Solving &nbsp; · &nbsp;
+    Development Tools
+  </sub>
+</p>
+
+<br>
+
+<!-- ========================== PROJECTS ====================== -->
+
+<h2 id="projects" align="center">Featured Projects</h2>
+
+<br>
+
+<table align="center" width="90%">
 <tr>
 
-<td width="33%" align="center">
+<td align="center" width="33%">
 
-### 🐾
+<h3>🐾</h3>
 
-**Pet Clinic System**
+<strong>Pet Clinic System</strong>
 
-Database system for organizing and managing pet clinic information.
+<br><br>
 
-`MS Access`
+A system for organizing and managing pet clinic information.
+
+<br><br>
+
+<sub>MS Access · Database</sub>
 
 </td>
 
-<td width="33%" align="center">
+<td align="center" width="33%">
 
-### 🧠
+<h3>🧠</h3>
 
-**AI Neurology Imaging**
+<strong>AI Neurology Imaging</strong>
+
+<br><br>
 
 Academic AI project focused on neurological medical image analysis.
 
-`U-Net` · `ViT`
+<br><br>
+
+<sub>U-Net · Vision Transformers</sub>
 
 </td>
 
-<td width="33%" align="center">
+<td align="center" width="33%">
 
-### 🩹
+<h3>🩹</h3>
 
-**First Aid App**
+<strong>First Aid App</strong>
 
-Mobile application designed to provide accessible first-aid information.
+<br><br>
 
-`Flutter` · `UI/UX`
+A mobile application for accessible first-aid information.
+
+<br><br>
+
+<sub>Flutter · UI/UX</sub>
 
 </td>
 
@@ -149,78 +193,72 @@ Mobile application designed to provide accessible first-aid information.
 
 <br>
 
----
+<!-- ======================= CURRENTLY ======================== -->
 
-<!-- ======================== JOURNEY ========================= -->
-
-<h2 align="center">Currently Building</h2>
-
-<br>
-
-<p align="center">
-
-📱 Flutter Development
-   •   
-🎨 UI/UX
-   •   
-🧠 Problem Solving
-   •   
-🚀 Real Projects
-
-</p>
+<h2 align="center">Currently Learning</h2>
 
 <br>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=17&duration=3500&pause=900&color=64748B&center=true&vCenter=true&width=700&height=40&lines=Learning+%E2%86%92+Building+%E2%86%92+Improving;One+project+at+a+time."
-    alt="Learning Building Improving"
+    src="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=500&size=17&duration=3000&pause=900&color=027DFD&center=true&vCenter=true&width=650&height=40&lines=Improving+my+Flutter+skills;Learning+clean+and+scalable+development;Designing+better+mobile+experiences"
+    alt="Currently Learning"
   />
 </p>
 
 <br>
 
----
-
-<!-- ======================== GITHUB ========================== -->
-
-<h2 align="center">GitHub</h2>
-
-<br>
-
 <p align="center">
-
-<img
- src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=042B59&icon_color=027DFD&text_color=475569&count_private=true"
- height="165"
- alt="GitHub Stats"
-/>
-
-<img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=042B59&text_color=475569"
- height="165"
- alt="Top Languages"
-/>
-
+  Flutter Development
+  &nbsp; · &nbsp;
+  Dart
+  &nbsp; · &nbsp;
+  UI/UX
+  &nbsp; · &nbsp;
+  Problem Solving
 </p>
 
 <br>
 
----
+<!-- =========================== GITHUB ======================= -->
 
-<!-- ======================== CODE ============================ -->
+<h2 id="github" align="center">GitHub Activity</h2>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=F8FBFF&title_color=042B59&icon_color=027DFD&text_color=475569&ring_color=027DFD"
+    height="165"
+    alt="GitHub Statistics"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=F8FBFF&title_color=042B59&text_color=475569"
+    height="165"
+    alt="Top Languages"
+  />
+</p>
+
+<br>
+
+<!-- =========================== CODE ========================= -->
 
 <h2 align="center">A Little About Me</h2>
 
 <br>
 
+<p align="center">
+
 ```dart
 class Manar {
 
-  final role = "Flutter Developer";
-  final passion = "UI/UX Design";
+  final String role = "Flutter Developer";
+  final String passion = "UI/UX Design";
 
-  final skills = [
+  final List<String> skills = [
     "Flutter",
     "Dart",
     "Figma",
@@ -230,35 +268,37 @@ class Manar {
     "SQL",
   ];
 
-  final goal =
-      "Create simple experiences that people enjoy using.";
+  final String goal =
+      "Build simple products with meaningful experiences.";
 }
 ```
 
+</p>
+
 <br>
 
----
+<!-- ========================== CONTACT ======================= -->
 
-<!-- ======================== CONTACT ========================= -->
-
-<h2 align="center">Let's Connect</h2>
+<h2 id="contact" align="center">Let's Connect</h2>
 
 <br>
 
 <p align="center">
 
 <a href="YOUR_LINKEDIN_URL">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-042B59?style=flat-square&logo=linkedin&logoColor=FFFFFF"
-  />
+  <strong>LinkedIn</strong>
 </a>
 
- 
+   ·   
 
 <a href="mailto:YOUR_EMAIL">
-  <img
-    src="https://img.shields.io/badge/Email-027DFD?style=flat-square&logo=gmail&logoColor=FFFFFF"
-  />
+  <strong>Email</strong>
+</a>
+
+   ·   
+
+<a href="https://github.com/YOUR_USERNAME">
+  <strong>GitHub</strong>
 </a>
 
 </p>
@@ -266,14 +306,21 @@ class Manar {
 <br>
 
 <p align="center">
-  <sub>Flutter & the related logo are trademarks of Google LLC. This profile is not affiliated with or endorsed by Google LLC.</sub>
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=500&size=18&duration=3500&pause=1000&color=027DFD&center=true&vCenter=true&width=600&height=40&lines=Design.+Build.+Improve.;One+project+at+a+time."
+    alt="Design Build Improve"
+  />
 </p>
 
 <br>
 
 <p align="center">
+  <sub>Made with 💙 by Manar Mohamed</sub>
+</p>
+
+<p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=042B59&height=100&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=042B59&height=120&section=footer"
     width="100%"
   />
 </p>
